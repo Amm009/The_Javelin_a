@@ -16,6 +16,7 @@ Code Features Still Being Worked on:
 - Mapping controls received from the MCH to the servos and brushless motor
 - Acceleration and deceleration detection for the Javelin(a)
 - Javelin(a) states in the code are not quite working right yet
+- LED status light. Completely un-implemented currently, but it's the least crucial
 
 # More Details
 The Javelin(a) is inspired by the javelin missile made by the U.S Military. Don't worry, it doesn't explode (for obvious reasons). The Javelin(a) is essentially a two stage remote controlled plane. The first is a rocket stage to launch it from the launch tube and get it up to flying speed. After the first stage finishes burning it is jettisoned. After the first stage is jettisoned, the wings fold out and a ducted fan is used to power flight. A small FPV camera is included in the nosecone of the plane to allow the pilot to fly the plane from the launch location.
