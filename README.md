@@ -2,9 +2,11 @@
 This is a work in progress between Pyro-Technic (Justin Neyman) and I. It is currently in the middle stages of development.
 
 # The Main Idea
-The Javelin(a) is inspired by the javelin missile made by the U.S Military. Don't worry, it doesn't explode (for obvious reasons). The Javelin(a) is essentially a two stage remote controlled plane. The first is a rocket stage to launch it from the launch tube and get it up to flying speed. After the first stage finishes burning it is jettisoned. After the first stage is jettisoned, the wings fold out and a ducted fan is used to power flight. A small FPV camera is included in the nosecone of the plane to allow the pilot to fly the plane from the launch location.
+The Javelin(a) is inspired by the javelin missile made by the U.S Military. Don't worry, it doesn't explode (for obvious reasons). The Javelin(a) is essentially a two stage remote controlled plane. The first is a rocket stage to send it out of the launch tube and get it up to flying speed. After the first stage finishes burning, it's jettisoned. After the first stage is jettisoned, the wings fold out and a ducted fan is used to power flight. A small FPV camera is included in the nosecone of the plane to allow the pilot to fly the plane from the launch location.
 
 ![alt text](https://github.com/Amm009/The_Javelin_a/blob/main/Extra/image.png)
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/N2zlf3alyyM/0.jpg)](http://www.youtube.com/watch?v=N2zlf3alyyM "The Javelin(a) - An Update")
 
 # Plane Design
 The plane model shown above was created by Justin, and will soon be undergoing a major design change. In order to keep this plane classified as a class 1 model rocket, it's maximum fully loaded weight must be 1.5kg or less. Currently it will weigh more than that. Keeping the weight down will also help it to fly better as well.
