@@ -16,8 +16,8 @@ alt="The Javelin(a) - An Update" width="2400" height="1800" border="10" /></a>
 # Plane
 The plane model shown above was created by Justin, and will soon be undergoing a major design change. In order to keep this plane classified as a class 1 model rocket, it's maximum fully loaded weight must be 1.5kg or less. Currently it will weigh more than that. Keeping the weight down will also help it to fly better as well.
 
-# MCH
-The Main Control Housing (MCH) aka the remote control is built, but the code still needs work.
+# Main Control Housing (MCH)
+The MCH aka the remote control is built, but the code still needs work.
 
 Code Features Implemented:
 
