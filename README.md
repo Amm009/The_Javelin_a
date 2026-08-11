@@ -8,7 +8,7 @@ The Javelin(a) is inspired by the javelin missile made by the U.S Military. Don'
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=N2zlf3alyyM
 " target="_blank"><img src="http://img.youtube.com/vi/N2zlf3alyyM/0.jpg" 
-alt="The Javelin(a) - An Update" width="240" height="180" border="10" /></a>
+alt="The Javelin(a) - An Update" width="2400" height="1800" border="10" /></a>
 
 # Plane Design
 The plane model shown above was created by Justin, and will soon be undergoing a major design change. In order to keep this plane classified as a class 1 model rocket, it's maximum fully loaded weight must be 1.5kg or less. Currently it will weigh more than that. Keeping the weight down will also help it to fly better as well.
