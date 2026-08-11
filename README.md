@@ -6,6 +6,8 @@ The Javelin(a) is inspired by the javelin missile made by the U.S Military. Don'
 
 ![alt text](https://github.com/Amm009/The_Javelin_a/blob/main/Extra/image.png)
 
+Below is a video I made describing the current state of the Javelin(a):
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=N2zlf3alyyM
 " target="_blank"><img src="http://img.youtube.com/vi/N2zlf3alyyM/0.jpg" 
 alt="The Javelin(a) - An Update" width="2400" height="1800" border="10" /></a>
